@@ -1,0 +1,4 @@
+
+I cloned the repository and followed the commit changes. 
+I'm all for decreasing clicks and screen changes, so I plan 
+to start at least using VSCode to push changes to the repository.
